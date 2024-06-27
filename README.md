@@ -1,4 +1,3 @@
-# Industrial-Anomaly-Detection
 # Industrial Anomaly Detection Project
 
 ## Overview
